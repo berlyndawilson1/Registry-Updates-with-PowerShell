@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-My project involves writing PowerShell scripts on a Windows 10 local machine. The process includes creating, adding, and modifying registry keys and values, as well as outputting the content to a CSV file on the local machine desktop.
+My project involves writing PowerShell scripts on a Windows 10 local machine. The process includes creating, adding, and modifying registry keys and values, as well as outputting the content to a CSV file on the local machine desktop. Demostrating local execution in PowerShell.
 <br />
 
 
